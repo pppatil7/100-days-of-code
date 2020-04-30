@@ -17,5 +17,12 @@ public class SingleDimensionMain {
         Pair<Boolean, Integer> foundElement = array.foundElement(30);
         System.out.println(foundElement.getKey() + " "+ foundElement.getValue());
 
+        System.out.println("Delete value");
+        System.out.println("Before: ");
+        array.printArray();
+        array.deleteValue(1);
+        System.out.println("\nafter");
+        array.printArray();
+
     }
 }
