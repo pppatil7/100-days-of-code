@@ -18,6 +18,11 @@ public class SingleLinkedListCaller {
 
         System.out.println("Last element: "+ linkedList.tail.getData());
 
+        System.out.println("delete node by value");
+        linkedList.delteNodeByKey(5);
+        System.out.println(linkedList.traverseLinkedList());
+
+
     }
 
 }

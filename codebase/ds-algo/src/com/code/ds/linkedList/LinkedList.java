@@ -30,6 +30,28 @@ public class LinkedList {
         tail = newNode;
     }
 
+    // Delete
+    public void delteNodeByKey(int value){
+        Node temp = head, prev = null;
+
+        // found first node
+        if(temp != null && temp.getData() == value){
+            head = temp.getNext();
+            return;
+        }
+
+        while (temp != null && temp.getData() != value){
+            prev = temp;
+            temp = temp.getNext();
+        }
+
+        if (temp == null) return;
+
+        prev.setNext(temp.getNext());
+
+    }
+
+
     public String traverseLinkedList(){
 
         Node n = head;
