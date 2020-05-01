@@ -19,6 +19,9 @@
 *.tar.gz
 *.rar
 
+# Java output folder
+out/
+
 # Eclipse
 *.classpath
 *.project
