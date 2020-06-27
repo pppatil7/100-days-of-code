@@ -7,4 +7,4 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| May 1, 2020   |   |
+| June 27, 2020   |   |

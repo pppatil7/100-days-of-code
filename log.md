@@ -1,20 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: May 1, 2020
-##### (delete me or comment me out)
+### Day 0: June 27, 2020
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learn class, object in Java
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Object => state(fiels) and behavior(methods)
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-
-### Day 1: May 2, Saturday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work** [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+**Link to work:** [Work link](https://github.com/pppatil7/100-days-of-code/commit/cbb7dcbebc3d15faff329d85c19e9c82ac4f8d3c)
 
