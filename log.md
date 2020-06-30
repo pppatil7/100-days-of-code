@@ -1,9 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 27, 2020
+### Day 4: June 30, 2020
 ##### 
 
-**Today's Progress**: Learn class, object in Java
+**Today's Progress**: super keyword
 
 **Thoughts:** Object => state(fiels) and behavior(methods)
 
