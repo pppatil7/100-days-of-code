@@ -1,6 +1,7 @@
 package learn.corejava;
 
 public class Bank {
+	
 	int getRateOfInterest() {
 		return 0;
 	}
