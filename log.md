@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 15: July 12, 2020
+### Day 16: July 13, 2020
 ##### 
 
 **Today's Progress**: HashSet
