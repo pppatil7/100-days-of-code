@@ -1,5 +1,4 @@
 package learn.corejava;
-
 public class Bicycle {
 	
 	private int speed;
