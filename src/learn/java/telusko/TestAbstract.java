@@ -15,6 +15,12 @@ abstract class Human{
 	}
 }
  class Women extends Human{
+
+	@Override
+	public void eat() {
+		// TODO Auto-generated method stub
+		
+	}
 	 
  }
 public class TestAbstract {

@@ -1,6 +1,5 @@
 package learn.corejava;
 
-import com.sun.org.apache.xalan.internal.xsltc.trax.SAX2StAXBaseWriter;
 
 public class TestStringBuffer {
 

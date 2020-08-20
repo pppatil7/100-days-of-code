@@ -1,7 +1,7 @@
 package learn.java.telusko;
 import java.util.*;
 
-class Student123 implements Comparable<student123>{
+class Student123 {
 	int rollno,marks;
 	String name;
 	
@@ -12,7 +12,7 @@ class Student123 implements Comparable<student123>{
 		
 		
 	}
-	compareTo()
+	
 }
 
 
@@ -25,3 +25,5 @@ public class TestArraylist1 {
 	}
 
 }
+
+

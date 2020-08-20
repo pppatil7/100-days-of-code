@@ -9,7 +9,8 @@ public class TestScanner {
 		System.out.println("enter your name:");
 		String name=s1.nextLine();
 		System.out.println("Your name is:"+name);
-		s1.close();
+		char c=s1.next().charAt(0);
+		System.out.println(c);
 	}
 
 }

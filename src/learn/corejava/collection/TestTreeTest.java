@@ -27,8 +27,8 @@ public class TestTreeTest {
 		t2.add(52);
 		t2.add(7);
 		
-		System.out.println("highest element: "+set.pollFirst());
-		System.out.println("lowest element: "+set.pollLast());
+	//	System.out.println("highest element: "+set.pollFirst());
+	//	System.out.println("lowest element: "+set.pollLast());
 
 	}
 
