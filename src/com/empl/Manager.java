@@ -25,4 +25,6 @@ public class Manager extends Emp {
 		return "Manager [petrolal=" + petrolal + ", foodal=" + foodal + ", otheral=" + otheral + "]";
 	}
 
+	
+
 }

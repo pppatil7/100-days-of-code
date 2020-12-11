@@ -6,11 +6,11 @@ public class Emp {
 	double bsalary;
 
 	public Emp() {
-		super();
+		
 	}
 
 	public Emp(int id, String name, double bsalary) {
-		super();
+		
 		this.id = id;
 		this.name = name;
 		this.bsalary = bsalary;
