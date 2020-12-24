@@ -17,7 +17,7 @@ public class Test extends Array {
 		//a1.show();
 		
 		Test t1=new Test();
-        t1.show();
+       // t1.show();
 		
 		
 		//Array a2=new Array();

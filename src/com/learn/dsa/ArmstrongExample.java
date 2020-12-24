@@ -3,7 +3,7 @@ package com.learn.dsa;
 class ArmstrongExample{  
 	  public static void main(String[] args)  {  
 	    int c=0,a,temp;  
-	    int n=154;//It is the number to check armstrong  
+	    int n=153;//It is the number to check armstrong  
 	    temp=n;  
 	    while(n>0)  
 	    {  
