@@ -10,7 +10,9 @@ public class Test1 {
 		clist.insert(40);
 		clist.insert(70);
 		clist.printList();
-
+		System.out.println(clist.tail.data);
+        clist.insert(34);
+        System.out.println(clist.tail.next.data);
 	}
 
 }
