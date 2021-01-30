@@ -2,13 +2,32 @@ package learn.dsa;
 
 
 public class Array {
-
-	public static void main(String[] args) {
-		int arr[]= {1,4,7,3,9}; 
+    
+	
+	public static int[] leftGreater(int[] arr) {
+		//arr={12,5,3,7,9,2}
+		//arr1={0,1,2,1,1,5};
+		int[] arr1=new int[arr.length];
 		
-        System.out.println(arr.length);
-        for(int i=0;i<arr.length;i++) {
-        	System.out.println(i +":"+arr[i]);
-        }
+		
+		
+		
+		
+		return arr1;
+	}
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
 	}
 }
