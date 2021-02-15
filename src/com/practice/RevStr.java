@@ -5,7 +5,7 @@ public class RevStr {
 	public static void main(String[] args) {
 	
 		String str="mindtree";
-		char[] ch=str.toCharArray();
+		//char[] ch=str.toCharArray();
 		//eErTdNiM
 		String str1="";
 		char c=' ';
